@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Escena menu.unity
+    guid: 9042efb90d4425042a8a0ec7d5d48127
+  - enabled: 1
+    path: Assets/Scenes/Escena.m.2.unity
+    guid: f7a63a281a6682f499901e39e8ac7372
+  - enabled: 1
+    path: Assets/Scenes/Escena.1.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Escena.2.unity
+    guid: 4c00dc95d1daa0949b757347330e7b89
+  - enabled: 1
+    path: Assets/Scenes/Escena.3.unity
+    guid: a61e321be2e620a42ac3ca2ebb7a8091
+  - enabled: 1
+    path: Assets/Scenes/Escena.opciones.unity
+    guid: 4947eeb05d2b6d5449f52f3831bd5812
+  - enabled: 1
+    path: Assets/Scenes/Escena.ayuda.unity
+    guid: 4c5d456019812da4d840deb68222ebb3
+  - enabled: 1
+    path: Assets/Scenes/Escena.informacion.unity
+    guid: 79f39ff2ac25cf34bb144ac3f0cc3ffc
+  - enabled: 1
+    path: Assets/Scenes/Escena.niveles.unity
+    guid: b72e1b291f4727d4fb117d2f1fb3cd0c
+  m_configObjects: {}
